@@ -1,3 +1,9 @@
-yummly.txt and yummly_allrecipes.txt are two recipe datasets. Each line represents a recipe, which contains the ingredients, the corresponding amounts (unit: g), and the WHO score of this recipe. Taking "hamburger buns#58.0,pasta sauce#29.4%2" as an example, this recipe contains two ingredients, hamburger buns and pasta sauce, and its WHO score is 2. The amount of hamburger buns is 58.0 g, and the amount of pasta sauce is 29.4 g.
+yummly.txt and yummly_allrecipes.txt are two recipe datasets. Each line represents a recipe, which contains the ingredients, 
+the corresponding amounts (unit: g), and the WHO score of this recipe. Taking "hamburger buns#58.0,pasta sauce#29.4%2" as an
+example, this recipe contains two ingredients, hamburger buns and pasta sauce, and its WHO score is 2. The amount of hamburger 
+buns is 58.0 g, and the amount of pasta sauce is 29.4 g.
 
-nutrition_ingredient_yummly.txt and nutrition_ingredient_allrecipes.txt are two nutritional datasets. Each line contains 8 attributes, including ingredient name, amount of Protein, amount of Carbohydrates, amount of Sugar, amount of Fat, amount of Saturated fat, amount of Sodium, amount of Fiber.  Taking "mayonnaise,0.0037,0,0,0.4,0.0537,0.008,0" as an example, 1g mayonnaise contains 0.0037g Protein, 0.4g Fat, 0.0537g Saturated fat, 0.008g Sodium.
+nutrition_ingredient_yummly.txt and nutrition_ingredient_allrecipes.txt are two nutritional datasets. Each line contains 8
+attributes, including ingredient name, amount of Protein, amount of Carbohydrates, amount of Sugar, amount of Fat, amount of
+Saturated fat, amount of Sodium, amount of Fiber.  Taking "mayonnaise,0.0037,0,0,0.4,0.0537,0.008,0" as an example, 1g mayonnaise
+contains 0.0037g Protein, 0.4g Fat, 0.0537g Saturated fat, 0.008g Sodium.
