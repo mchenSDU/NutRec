@@ -1,4 +1,4 @@
-yummly.txt and yummly_allrecipes.txt are two recipe datasets. Each line represents a recipe, which contains the ingredients, 
+yummly.txt and allrecipes.txt are two recipe datasets. Each line represents a recipe, which contains the ingredients, 
 the corresponding amounts (unit: g), and the WHO score of this recipe. Taking "hamburger buns#58.0,pasta sauce#29.4%2" as an
 example, this recipe contains two ingredients, hamburger buns and pasta sauce, and its WHO score is 2. The amount of hamburger 
 buns is 58.0 g, and the amount of pasta sauce is 29.4 g.
